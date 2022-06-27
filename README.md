@@ -1,0 +1,1 @@
+#General exercises from codility
