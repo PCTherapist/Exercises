@@ -1,1 +1,1 @@
-#General exercises from codility
+# General Exercises from Codility
